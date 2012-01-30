@@ -4,8 +4,8 @@ then
   exit
 fi
 
-echo "\033[0;34mCloning Oh My Zsh...\033[0m"
-/usr/bin/env git clone git://github.com/sjl/oh-my-zsh.git ~/.oh-my-zsh
+echo "\033[0;34mCloning Oh My Zsh... [IceMuppet Version]\033[0m"
+/usr/bin/env git clone git://github.com/IceMupppet/carnivore.git ~/.oh-my-zsh
 
 echo "\033[0;34mLooking for an existing zsh config...\033[0m"
 if [ -f ~/.zshrc ] || [ -h ~/.zshrc ]
@@ -30,6 +30,7 @@ echo "\033[0;32m"' / __ \/ __ \   / __ `__ \/ / / /  /_  / / ___/ __ \ '"\033[0m
 echo "\033[0;32m"'/ /_/ / / / /  / / / / / / /_/ /    / /_(__  ) / / / '"\033[0m"
 echo "\033[0;32m"'\____/_/ /_/  /_/ /_/ /_/\__, /    /___/____/_/ /_/  '"\033[0m"
 echo "\033[0;32m"'                        /____/                       '"\033[0m"
+echo "\033[0;32m"'      .¨-._[ IceMupppet Version ]_.-¨.               '"\033[0m"
 
 echo "\n\n \033[0;32m....is now installed.\033[0m"
 /usr/bin/env zsh
