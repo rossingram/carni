@@ -8,7 +8,7 @@ ZSH=$HOME/.oh-my-zsh
 
 
  export ZSH_THEME="candy"
-#  export ZSH_THEME="muse"
+# export ZSH_THEME="muse"
 #  export ZSH_THEME="robbyrussell"
 
 # Set to this to use case-sensitive completion
