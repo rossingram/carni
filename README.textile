@@ -1,6 +1,6 @@
 A handful of functions, auto-complete helpers, and stuff that makes you shout...
 oh hai
-bq. "OH MY ZSHELL! - IceMupppet Version"
+ "OH MY ZSHELL! - IceMupppet Version"
 
 h2. Setup
 
